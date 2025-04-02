@@ -24,7 +24,7 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "rattler": "https://github.com/justinjordan/rattler.git",
+    "rattler": "https://github.com/justinjordan/rattler.git#v0.1.0",
     "three": "^0.175.0"
   }
 }

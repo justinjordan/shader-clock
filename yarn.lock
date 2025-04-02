@@ -1794,9 +1794,9 @@ pubsub-js@^1.9.5:
   resolved "https://registry.yarnpkg.com/pubsub-js/-/pubsub-js-1.9.5.tgz#e9264ef8c7aa4c2510010ebb75bfd54cdcb7b148"
   integrity sha512-5MZ0I9i5JWVO7SizvOviKvZU2qaBbl2KQX150FAA+fJBwYpwOUId7aNygURWSdPzlsA/xZ/InUKXqBbzM0czTA==
 
-"rattler@https://github.com/justinjordan/rattler.git":
-  version "0.0.0"
-  resolved "https://github.com/justinjordan/rattler.git#f789f4222167f32e643d0c3e6c1e5f22f62a7888"
+"rattler@https://github.com/justinjordan/rattler.git#v0.1.0":
+  version "0.1.0"
+  resolved "https://github.com/justinjordan/rattler.git#7b3b2c5dbc97e545ac442359120ea80c01b1ce60"
   dependencies:
     loglevel "^1.9.2"
     pubsub-js "^1.9.5"
